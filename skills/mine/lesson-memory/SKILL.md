@@ -1,7 +1,14 @@
 ---
 name: lesson-memory
-description: "Lesson memory persists a correction from three supplied facts. Use when a user or workflow provides what went wrong, why it went wrong, and the correct approach. Don't use to diagnose failures or infer lessons from code history."
+description: >-
+   Lesson memory persists a correction from three supplied facts. Use when a user or workflow provides what went wrong, why it went wrong, and the correct approach. 
+   Don't use to diagnose failures or infer lessons from code history."
 argument-hint: "<what went wrong> | <why it went wrong> | <correct approach>"
+metadata:
+  author: Vinícius Bôscoa
+  github: https://github.com/virb30
+  repository: https://github.com/virb30/ia-resources/skills
+  related-skills: lesson-learned
 ---
 
 # Lesson Memory

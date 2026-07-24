@@ -12,6 +12,7 @@ metadata:
   github: https://github.com/virb30
   repository: https://github.com/virb30/ia-resources/skills
   based-on: https://github.com/pedronauck/skills/tree/main/skills/mine/impl-peer-review
+  related-skills: impl-peer-review, lesson-memory
 ---
 
 # Implementation Peer Review with Memory
