@@ -73,6 +73,12 @@
       "skillPath": "skills/deprecated/skill-best-practices/SKILL.md",
       "computedHash": "f906d43205c182eb633ff7df6ece6f83e8784de77f1b475f0b6c3084a5ed4d06"
     },
+    "spec-peer-review": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mine/spec-peer-review/SKILL.md",
+      "computedHash": "3a6fd189480dc593ad311ba1749704cd90b6552c2b0e529bdfa0c3b87702657f"
+    },
     "tailwindcss": {
       "source": "pedronauck/skills",
       "sourceType": "github",
