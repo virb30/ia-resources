@@ -37,6 +37,12 @@
       "skillPath": "skills/curated/lesson-learned/SKILL.md",
       "computedHash": "2bdf72af18ccc97c8c5580f252769610d2c0d814c36433ea7dd3f25c822ff6b7"
     },
+    "mastra": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/mastra/SKILL.md",
+      "computedHash": "e007a255b36b3b62c0780b7d742f0df6b21f1f20e135e92f4c580243ea9494c5"
+    },
     "no-workarounds": {
       "source": "pedronauck/skills",
       "sourceType": "github",
@@ -91,6 +97,12 @@
       "skillPath": "skills/mine/to-prompt/SKILL.md",
       "computedHash": "5c94e9e8b92f7f316941de148b219ab09cd007d816b176523f31115ea1653a9c"
     },
+    "vitest": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/vitest/SKILL.md",
+      "computedHash": "669c7275f7e1379b06b2bcfa593603aead4c983b951c7e8edbc09640aa38d0a1"
+    },
     "writing-agents-md": {
       "source": "pedronauck/skills",
       "sourceType": "github",
@@ -102,6 +114,12 @@
       "sourceType": "github",
       "skillPath": "skills/mine/writing-skills/SKILL.md",
       "computedHash": "ce0e7cdca537fc28bef486cd3261e2c0a734efc6b3e286d1bb94818e5d4cd572"
+    },
+    "zod": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/zod/SKILL.md",
+      "computedHash": "44f1ae5e377022f537cbad603de0e3329de7afea8567e0e11eb8593e09769441"
     }
   }
 }
